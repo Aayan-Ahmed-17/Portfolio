@@ -16,11 +16,7 @@ export function ContactSection() {
               I'm actively looking for junior Python developer roles. If you're building something
               interesting and need someone who learns fast, thinks deeply, and ships code — let's talk.
             </p>
-<<<<<<< HEAD
-            <a href="mailto:aayanahmedtejani@gmail.com" className="btn-primary">
-=======
             <a href="mailto:your@email.com" className="btn-primary">
->>>>>>> 4d15869c176eb821938e8b9dda3581f108921ee2
               Send me an email
             </a>
           </div>
@@ -31,12 +27,7 @@ export function ContactSection() {
                 key={link.label}
                 href={link.href}
                 className="contact-link"
-<<<<<<< HEAD
-                // target={link.href.startsWith('http') ? '_blank' : undefined}
-                target='_blank'
-=======
                 target={link.href.startsWith('http') ? '_blank' : undefined}
->>>>>>> 4d15869c176eb821938e8b9dda3581f108921ee2
                 rel={link.href.startsWith('http') ? 'noreferrer' : undefined}
               >
                 <div>
