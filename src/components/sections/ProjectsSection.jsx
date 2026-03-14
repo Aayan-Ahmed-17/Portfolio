@@ -22,8 +22,8 @@ export function ProjectsSection() {
                   ))}
                 </div>
                 <a
-                  href={project.deployedLink}
-                  target="_blank"
+                  href={project.deployedLink ? project.deployedLink : "#projects"}
+                  target={project.deployedLink && "_blank"}
                   rel="noreferrer"
                   className="project-live-link"
                   aria-label={`View live project for ${project.name} (opens in a new tab)`}
