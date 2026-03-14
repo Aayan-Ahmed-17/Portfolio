@@ -150,7 +150,7 @@ export const journey = [
 ];
 
 export const contactLinks = [
-  { label: 'Email', value: 'your@email.com', href: 'mailto:your@email.com' },
-  { label: 'GitHub', value: 'github.com/yourusername', href: 'https://github.com/yourusername' },
-  { label: 'LinkedIn', value: 'linkedin.com/in/yourusername', href: 'https://linkedin.com/in/yourusername' },
+  { label: 'Email', value: 'aayanahmedtejani@gmail.com', href: 'mailto:aayanahmedtejani@gmail.com' },
+  { label: 'GitHub', value: 'github.com/Aayan-Ahmed-17', href: 'https://github.com/Aayan-Ahmed-17' },
+  { label: 'LinkedIn', value: 'linkedin.com/in/aayan-ahmed-tejani', href: 'https://linkedin.com/in/aayan-ahmed-tejani' },
 ];

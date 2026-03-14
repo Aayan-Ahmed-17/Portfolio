@@ -10,7 +10,7 @@ export function HeroSection() {
         <div className="hero-eyebrow">Available for hire · Karachi, Pakistan</div>
 
         <h1 className="hero-name">
-          Your<span className="accent">Name</span>
+          Soft<span className="accent">Ware</span>
           <br />
           <span className="dim">Developer.</span>
         </h1>

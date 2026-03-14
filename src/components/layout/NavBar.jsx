@@ -5,7 +5,7 @@ export function NavBar() {
     <nav>
       <div className="container">
         <a href="#" className="nav-logo">
-          YourName.py
+          Aayan Ahmed Tejani
         </a>
         <ul className="nav-links">
           {navLinks.map((link) => (
